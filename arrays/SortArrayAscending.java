@@ -1,4 +1,4 @@
-import java.lang.reflect.Array;
+
 import java.util.*;
 
 public class SortArrayAscending {
@@ -6,10 +6,12 @@ public class SortArrayAscending {
         int [] arr = { 33,11,9, 87, 65, 99 , 111};
 
         Arrays.sort(arr);
-        System.out.println("Arrays after Ascnding order ");
+        System.out.println("Arrays after Ascending order ");
 
         for ( int num : arr){
             System.out.print(num + " ");
         }
     }
 }
+
+
