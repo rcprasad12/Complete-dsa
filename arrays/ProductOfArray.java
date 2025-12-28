@@ -1,6 +1,6 @@
 public class ProductOfArray {
     public static void main(String[] args) {
-        int [] arr = {10,30,50,70,90};
+        int [] arr = {10,30,50,70,90,888,90};
 
         int sum = 0 ;
 
