@@ -19,6 +19,7 @@ public class ntoOne {
             return ;
         }
         funReverse(n-1);
+        
         System.out.println(n);
     }
 }
