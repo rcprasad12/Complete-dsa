@@ -15,6 +15,9 @@ public class ntoOne {
     }
 
     static void funReverse(int n){
+
+
+        
         if(n==0){
             return ;
         }
