@@ -11,6 +11,7 @@ public class ntoOne {
             return ;
         }
         System.out.println(n);
+        
         fun(n-1);
     }
 
